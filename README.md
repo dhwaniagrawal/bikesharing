@@ -46,3 +46,5 @@ The bike trip analysis gives a bigger picture and in depth conclusion on how the
 2 different visulations can be.
 1) For what purpose mostly people are using the bikes for.
 2) What can we do to make the Female and Unknown category use the bikes more.
+
+[Link to Dashboard](https://public.tableau.com/shared/4J8P488KZ?:display_count=n&:origin=viz_share_link)
